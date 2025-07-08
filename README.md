@@ -2,7 +2,7 @@
 
 🎓 BTech'28 Student at NIT Manipur  
 🌱 Learning Web Development | C | C++ | Python  
-💻 Exploring Git, GitHub & Open Source  
+💻 Exploring Git, GitHub,Web dev,AI & Open Source  
 🔗 Portfolio: [shellsri.github.io](https://shellsri.github.io)  
 ✨ Girlscript Summer of Code 2025 Aspirant
 
@@ -12,7 +12,7 @@
 
 - **Portfolio Website** – [Live](https://shellsri.github.io/portfolio-website/) | [Code](https://github.com/shellsri/portfolio-website)
 - **Personal Finance Tracker** – [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
-
+- **Open source finder** -[Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
 ---
 
 ### 📫 Contact
