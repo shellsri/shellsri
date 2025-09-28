@@ -1,11 +1,4 @@
-# Hi, I'm Shelly 👋
-
-🎓 BTech'28 Student at NIT Manipur  
-🌱 Learning Web Development | C | C++ | Python  
-💻 Exploring Git, GitHub,Web dev,AI & Open Source  
-🔗 Portfolio: [shellsri.github.io](https://shellsri.github.io)  
-✨ Girlscript Summer of Code 2025 Aspirant
-
+# Hi, I'm Shelly 
 ---
 
 ### 🛠️ Projects
