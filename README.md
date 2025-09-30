@@ -6,7 +6,8 @@
 - **Portfolio Website** – [Live](https://shellsri.github.io/portfolio-website/) | [Code](https://github.com/shellsri/portfolio-website)
 - **Personal Finance Tracker** – [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
 - **Open source finder** -[Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
----
+- **Smart classroom and timetable scheduler** -[Live](https://storied-strudel-d539d0.netlify.app/login) | [Code](https://github.com/shellsri/timetable)
+- **Crowdsourced Civic lssue Reporting and Resolution System** -[Code](https://github.com/shellsri/mysihapp)
 
 ### 📫 Contact
 
