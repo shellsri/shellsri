@@ -3,7 +3,7 @@
 
 ### 🛠️ Projects
 
-- **Portfolio Website** – [Live](https://shellsri.github.io/portfolio-website/) | [Code](https://github.com/shellsri/portfolio-website)
+- **Portfolio Website** – [Live](https://shellsri.github.io/portfolio/) | [Code](https://github.com/shellsri/portfolio-website)
 - **Personal Finance Tracker** – [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
 - **Open source finder** -[Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
 - **Smart classroom and timetable scheduler** -[Live](https://tinyurl.com/37acz27f) | [Code](https://github.com/shellsri/timetable)
