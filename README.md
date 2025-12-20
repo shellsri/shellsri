@@ -5,9 +5,10 @@
 
 - **Portfolio Website** – [Live](https://shellsri.github.io/portfolio/) | [Code](https://github.com/shellsri/portfolio-website)
 - **Personal Finance Tracker** – [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
-- **Open source finder** -[Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
-- **Smart classroom and timetable scheduler** -[Live](https://tinyurl.com/37acz27f) | [Code](https://github.com/shellsri/timetable)
-- **Crowdsourced Civic lssue Reporting and Resolution System** -[Code](https://github.com/shellsri/mysihapp)
+- **Open Source Finder** – [Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
+- **Smart Classroom and Timetable Scheduler** – [Live](https://tinyurl.com/37acz27f) | [Code](https://github.com/shellsri/timetable)
+- **Movie Discovery App** – [Live](https://react-movie-apps-beta.vercel.app/) | [Code](https://github.com/shellsri/react-movie-app)
+
 
 ### 📫 Contact
 
