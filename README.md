@@ -2,12 +2,30 @@
 ---
 
 ### 🛠️ Projects
+- **Portfolio Website**  
+  [Live](https://shellsri.github.io/portfolio/) | [Code](https://github.com/shellsri/portfolio-website)
 
-- **Portfolio Website** – [Live](https://shellsri.github.io/portfolio/) | [Code](https://github.com/shellsri/portfolio-website)
-- **Personal Finance Tracker** – [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
-- **Open Source Finder** – [Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
-- **Smart Classroom and Timetable Scheduler** – [Live](https://tinyurl.com/37acz27f) | [Code](https://github.com/shellsri/timetable)
-- **Movie Discovery App** – [Live](https://react-movie-apps-beta.vercel.app/) | [Code](https://github.com/shellsri/react-movie-app)
+- **Personal Finance Tracker**  
+  [Live](https://shellsri.github.io/personal-finance-tracker/) | [Code](https://github.com/shellsri/personal-finance-tracker)
+
+- **Open Source Project Finder**  
+  [Live](https://shellsri.github.io/os-project-finder/) | [Code](https://github.com/shellsri/os-project-finder)
+
+- **Smart Classroom and Timetable Scheduler**  
+  [Live](https://tinyurl.com/37acz27f) | [Code](https://github.com/shellsri/timetable)
+
+- **Movie Discovery App**  
+  [Live](https://react-movie-apps-beta.vercel.app/) | [Code](https://github.com/shellsri/react-movie-app)
+
+- **Should I Bunk? – Academic Decision Support System**  
+  [Live](https://should-i-bunk-self.vercel.app) | [Code](https://github.com/shellsri/should-i-bunk-)
+
+- **LeetCode Progress Tracker**  
+  [Live](https://leettracker-pink.vercel.app/) | [Code](https://github.com/shellsri/leettrack)
+
+- **AWS Static Website Deployment with CDN**  
+  [Live](https://dpwar8t52aw67.cloudfront.net) | [Code](https://github.com/shellsri/aws-static-website)
+
 
 
 ### 📫 Contact
