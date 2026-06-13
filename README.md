@@ -25,9 +25,15 @@
 
 - **AWS Static Website Deployment with CDN**  
   [Live](https://dpwar8t52aw67.cloudfront.net) | [Code](https://github.com/shellsri/aws-static-website)
-
+  
 - **Heart Disease Prediction – Machine Learning Web App**  
   [Live](https://heart-disease-prediction-gwges9rrnuatsmh9abxh36.streamlit.app/) | [Code](https://github.com/shellsri/heart-disease-prediction)
+
+- **Last Mile Emissions Analyzer – Sustainability Analytics Platform**  
+  [Live](https://last-mile-emissions-analyzer-6fdeb77ibshbytjxkpgw6p.streamlit.app/) | [Code](https://github.com/shellsri/last-mile-emissions-analyzer)
+
+- **Viral-O-Meter – AI-Powered Content Virality Predictor**  
+  [Live](https://viral-o-meter-avi7zyfkxo3wjvm7eeridr.streamlit.app/) | [Code](https://github.com/shellsri/Viral-O-Meter)
 
 ### 📫 Contact
 
