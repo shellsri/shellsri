@@ -1,6 +1,11 @@
 # Hi, I'm Shelly 
 ---
 
+
+
+
+projet wala repos build ur own x app ideas  project lesarn
+
 ### 🛠️ Projects
 - **Portfolio Website**  
   [Live](https://shellsri.github.io/portfolio/) | [Code](https://github.com/shellsri/portfolio-website)
